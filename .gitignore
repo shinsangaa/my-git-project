@@ -1,0 +1,13 @@
+# IDE 및 환경 설정 파일
+.idea/
+.venv/
+
+# 데이터베이스
+pybo.db
+
+# 파이썬 캐시 파일 (언더바 2개 및 올바른 확장자 영문 p-y-c)
+__pycache__/
+*.pyc
+
+# 마이그레이션 폴더
+migrations/
